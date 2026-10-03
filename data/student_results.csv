@@ -1,0 +1,201 @@
+Student_ID,Name,Branch,Semester,Section,Subject,Marks,Credits
+ST001,Rahul,CSE,5,A,DBMS,55,4
+ST001,Rahul,CSE,5,A,Operating Systems,50,4
+ST001,Rahul,CSE,5,A,DAA,63,4
+ST001,Rahul,CSE,5,A,Computer Networks,69,4
+ST002,Aman,CSE,5,A,DBMS,90,4
+ST002,Aman,CSE,5,A,Operating Systems,83,4
+ST002,Aman,CSE,5,A,DAA,91,4
+ST002,Aman,CSE,5,A,Computer Networks,98,4
+ST003,Ravi,CSE,5,B,DBMS,47,4
+ST003,Ravi,CSE,5,B,Operating Systems,63,4
+ST003,Ravi,CSE,5,B,DAA,55,4
+ST003,Ravi,CSE,5,B,Computer Networks,56,4
+ST004,Priya,CSE,5,A,DBMS,76,4
+ST004,Priya,CSE,5,A,Operating Systems,83,4
+ST004,Priya,CSE,5,A,DAA,68,4
+ST004,Priya,CSE,5,A,Computer Networks,78,4
+ST005,Neha,CSE,5,A,DBMS,74,4
+ST005,Neha,CSE,5,A,Operating Systems,65,4
+ST005,Neha,CSE,5,A,DAA,52,4
+ST005,Neha,CSE,5,A,Computer Networks,56,4
+ST006,Arjun,CSE,5,B,DBMS,38,4
+ST006,Arjun,CSE,5,B,Operating Systems,46,4
+ST006,Arjun,CSE,5,B,DAA,54,4
+ST006,Arjun,CSE,5,B,Computer Networks,43,4
+ST007,Ananya,CSE,5,B,DBMS,78,4
+ST007,Ananya,CSE,5,B,Operating Systems,81,4
+ST007,Ananya,CSE,5,B,DAA,89,4
+ST007,Ananya,CSE,5,B,Computer Networks,73,4
+ST008,Karan,CSE,5,A,DBMS,63,4
+ST008,Karan,CSE,5,A,Operating Systems,65,4
+ST008,Karan,CSE,5,A,DAA,55,4
+ST008,Karan,CSE,5,A,Computer Networks,52,4
+ST009,Simran,CSE,5,B,DBMS,75,4
+ST009,Simran,CSE,5,B,Operating Systems,73,4
+ST009,Simran,CSE,5,B,DAA,87,4
+ST009,Simran,CSE,5,B,Computer Networks,82,4
+ST010,Rohit,CSE,5,A,DBMS,75,4
+ST010,Rohit,CSE,5,A,Operating Systems,81,4
+ST010,Rohit,CSE,5,A,DAA,84,4
+ST010,Rohit,CSE,5,A,Computer Networks,84,4
+ST011,Aditya,CSE,5,A,DBMS,42,4
+ST011,Aditya,CSE,5,A,Operating Systems,46,4
+ST011,Aditya,CSE,5,A,DAA,32,4
+ST011,Aditya,CSE,5,A,Computer Networks,44,4
+ST012,Sneha,CSE,5,B,DBMS,63,4
+ST012,Sneha,CSE,5,B,Operating Systems,71,4
+ST012,Sneha,CSE,5,B,DAA,65,4
+ST012,Sneha,CSE,5,B,Computer Networks,62,4
+ST013,Vikas,CSE,5,B,DBMS,56,4
+ST013,Vikas,CSE,5,B,Operating Systems,60,4
+ST013,Vikas,CSE,5,B,DAA,57,4
+ST013,Vikas,CSE,5,B,Computer Networks,49,4
+ST014,Pooja,IT,5,A,DBMS,58,4
+ST014,Pooja,IT,5,A,Operating Systems,64,4
+ST014,Pooja,IT,5,A,DAA,70,4
+ST014,Pooja,IT,5,A,Computer Networks,53,4
+ST015,Nikhil,CSE,5,A,DBMS,61,4
+ST015,Nikhil,CSE,5,A,Operating Systems,69,4
+ST015,Nikhil,CSE,5,A,DAA,60,4
+ST015,Nikhil,CSE,5,A,Computer Networks,53,4
+ST016,Kavya,CSE,5,A,DBMS,94,4
+ST016,Kavya,CSE,5,A,Operating Systems,84,4
+ST016,Kavya,CSE,5,A,DAA,85,4
+ST016,Kavya,CSE,5,A,Computer Networks,81,4
+ST017,Ankit,CSE,5,A,DBMS,85,4
+ST017,Ankit,CSE,5,A,Operating Systems,74,4
+ST017,Ankit,CSE,5,A,DAA,70,4
+ST017,Ankit,CSE,5,A,Computer Networks,82,4
+ST018,Shreya,CSE,5,B,DBMS,45,4
+ST018,Shreya,CSE,5,B,Operating Systems,40,4
+ST018,Shreya,CSE,5,B,DAA,37,4
+ST018,Shreya,CSE,5,B,Computer Networks,39,4
+ST019,Manish,IT,5,A,DBMS,46,4
+ST019,Manish,IT,5,A,Operating Systems,65,4
+ST019,Manish,IT,5,A,DAA,53,4
+ST019,Manish,IT,5,A,Computer Networks,51,4
+ST020,Riya,CSE,5,A,DBMS,78,4
+ST020,Riya,CSE,5,A,Operating Systems,79,4
+ST020,Riya,CSE,5,A,DAA,87,4
+ST020,Riya,CSE,5,A,Computer Networks,78,4
+ST021,Ayush,CSE,5,B,DBMS,73,4
+ST021,Ayush,CSE,5,B,Operating Systems,78,4
+ST021,Ayush,CSE,5,B,DAA,79,4
+ST021,Ayush,CSE,5,B,Computer Networks,74,4
+ST022,Nisha,CSE,5,A,DBMS,71,4
+ST022,Nisha,CSE,5,A,Operating Systems,70,4
+ST022,Nisha,CSE,5,A,DAA,74,4
+ST022,Nisha,CSE,5,A,Computer Networks,76,4
+ST023,Varun,CSE,5,A,DBMS,68,4
+ST023,Varun,CSE,5,A,Operating Systems,82,4
+ST023,Varun,CSE,5,A,DAA,63,4
+ST023,Varun,CSE,5,A,Computer Networks,88,4
+ST024,Muskan,CSE,5,A,DBMS,39,4
+ST024,Muskan,CSE,5,A,Operating Systems,50,4
+ST024,Muskan,CSE,5,A,DAA,48,4
+ST024,Muskan,CSE,5,A,Computer Networks,42,4
+ST025,Harsh,CSE,5,B,DBMS,91,4
+ST025,Harsh,CSE,5,B,Operating Systems,93,4
+ST025,Harsh,CSE,5,B,DAA,96,4
+ST025,Harsh,CSE,5,B,Computer Networks,92,4
+ST026,Ishita,CSE,5,B,DBMS,70,4
+ST026,Ishita,CSE,5,B,Operating Systems,77,4
+ST026,Ishita,CSE,5,B,DAA,70,4
+ST026,Ishita,CSE,5,B,Computer Networks,70,4
+ST027,Abhishek,CSE,5,A,DBMS,92,4
+ST027,Abhishek,CSE,5,A,Operating Systems,81,4
+ST027,Abhishek,CSE,5,A,DAA,87,4
+ST027,Abhishek,CSE,5,A,Computer Networks,88,4
+ST028,Sakshi,CSE,5,A,DBMS,55,4
+ST028,Sakshi,CSE,5,A,Operating Systems,53,4
+ST028,Sakshi,CSE,5,A,DAA,72,4
+ST028,Sakshi,CSE,5,A,Computer Networks,66,4
+ST029,Yash,CSE,5,A,DBMS,58,4
+ST029,Yash,CSE,5,A,Operating Systems,59,4
+ST029,Yash,CSE,5,A,DAA,59,4
+ST029,Yash,CSE,5,A,Computer Networks,69,4
+ST030,Tanya,CSE,5,B,DBMS,32,4
+ST030,Tanya,CSE,5,B,Operating Systems,53,4
+ST030,Tanya,CSE,5,B,DAA,49,4
+ST030,Tanya,CSE,5,B,Computer Networks,40,4
+ST031,Mohit,CSE,5,B,DBMS,87,4
+ST031,Mohit,CSE,5,B,Operating Systems,87,4
+ST031,Mohit,CSE,5,B,DAA,86,4
+ST031,Mohit,CSE,5,B,Computer Networks,97,4
+ST032,Aditi,CSE,5,A,DBMS,66,4
+ST032,Aditi,CSE,5,A,Operating Systems,50,4
+ST032,Aditi,CSE,5,A,DAA,54,4
+ST032,Aditi,CSE,5,A,Computer Networks,56,4
+ST033,Saurabh,CSE,5,B,DBMS,71,4
+ST033,Saurabh,CSE,5,B,Operating Systems,76,4
+ST033,Saurabh,CSE,5,B,DAA,84,4
+ST033,Saurabh,CSE,5,B,Computer Networks,83,4
+ST034,Komal,CSE,5,A,DBMS,92,4
+ST034,Komal,CSE,5,A,Operating Systems,76,4
+ST034,Komal,CSE,5,A,DAA,87,4
+ST034,Komal,CSE,5,A,Computer Networks,85,4
+ST035,Deepak,CSE,5,B,DBMS,49,4
+ST035,Deepak,CSE,5,B,Operating Systems,57,4
+ST035,Deepak,CSE,5,B,DAA,51,4
+ST035,Deepak,CSE,5,B,Computer Networks,71,4
+ST036,Mehak,CSE,5,B,DBMS,89,4
+ST036,Mehak,CSE,5,B,Operating Systems,81,4
+ST036,Mehak,CSE,5,B,DAA,91,4
+ST036,Mehak,CSE,5,B,Computer Networks,92,4
+ST037,Akash,CSE,5,B,DBMS,67,4
+ST037,Akash,CSE,5,B,Operating Systems,52,4
+ST037,Akash,CSE,5,B,DAA,52,4
+ST037,Akash,CSE,5,B,Computer Networks,58,4
+ST038,Payal,CSE,5,B,DBMS,68,4
+ST038,Payal,CSE,5,B,Operating Systems,56,4
+ST038,Payal,CSE,5,B,DAA,51,4
+ST038,Payal,CSE,5,B,Computer Networks,57,4
+ST039,Gaurav,CSE,5,A,DBMS,79,4
+ST039,Gaurav,CSE,5,A,Operating Systems,72,4
+ST039,Gaurav,CSE,5,A,DAA,67,4
+ST039,Gaurav,CSE,5,A,Computer Networks,72,4
+ST040,Divya,CSE,5,B,DBMS,43,4
+ST040,Divya,CSE,5,B,Operating Systems,58,4
+ST040,Divya,CSE,5,B,DAA,52,4
+ST040,Divya,CSE,5,B,Computer Networks,52,4
+ST041,Rohan,CSE,5,A,DBMS,40,4
+ST041,Rohan,CSE,5,A,Operating Systems,52,4
+ST041,Rohan,CSE,5,A,DAA,32,4
+ST041,Rohan,CSE,5,A,Computer Networks,55,4
+ST042,Kriti,CSE,5,B,DBMS,77,4
+ST042,Kriti,CSE,5,B,Operating Systems,81,4
+ST042,Kriti,CSE,5,B,DAA,70,4
+ST042,Kriti,CSE,5,B,Computer Networks,67,4
+ST043,Shubham,CSE,5,A,DBMS,72,4
+ST043,Shubham,CSE,5,A,Operating Systems,79,4
+ST043,Shubham,CSE,5,A,DAA,80,4
+ST043,Shubham,CSE,5,A,Computer Networks,67,4
+ST044,Anjali,IT,5,B,DBMS,61,4
+ST044,Anjali,IT,5,B,Operating Systems,62,4
+ST044,Anjali,IT,5,B,DAA,52,4
+ST044,Anjali,IT,5,B,Computer Networks,68,4
+ST045,Naveen,CSE,5,A,DBMS,60,4
+ST045,Naveen,CSE,5,A,Operating Systems,62,4
+ST045,Naveen,CSE,5,A,DAA,58,4
+ST045,Naveen,CSE,5,A,Computer Networks,57,4
+ST046,Preeti,IT,5,B,DBMS,69,4
+ST046,Preeti,IT,5,B,Operating Systems,59,4
+ST046,Preeti,IT,5,B,DAA,62,4
+ST046,Preeti,IT,5,B,Computer Networks,51,4
+ST047,Raj,IT,5,B,DBMS,92,4
+ST047,Raj,IT,5,B,Operating Systems,87,4
+ST047,Raj,IT,5,B,DAA,83,4
+ST047,Raj,IT,5,B,Computer Networks,75,4
+ST048,Swati,CSE,5,B,DBMS,54,4
+ST048,Swati,CSE,5,B,Operating Systems,68,4
+ST048,Swati,CSE,5,B,DAA,66,4
+ST048,Swati,CSE,5,B,Computer Networks,64,4
+ST049,Varsha,CSE,5,A,DBMS,76,4
+ST049,Varsha,CSE,5,A,Operating Systems,91,4
+ST049,Varsha,CSE,5,A,DAA,88,4
+ST049,Varsha,CSE,5,A,Computer Networks,89,4
+ST050,Vivek,IT,5,A,DBMS,40,4
+ST050,Vivek,IT,5,A,Operating Systems,41,4
+ST050,Vivek,IT,5,A,DAA,54,4
+ST050,Vivek,IT,5,A,Computer Networks,54,4
